@@ -21,7 +21,7 @@ public class SimpleCalculator {
 	   return x*y;
    }
    
-   public float divide(int x, int y){
+   public float divide(float x, float y){
 	   return x/y;
    }
    
